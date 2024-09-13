@@ -1,0 +1,3 @@
+[submodule "ESP32TempatureSensors"]
+	path = ESP32TempatureSensors
+	url = git@github.com:Luceium/ESP32TempatureSensors.git
