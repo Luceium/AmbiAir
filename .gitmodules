@@ -1,3 +1,6 @@
 [submodule "ESP32TempatureSensors"]
 	path = ESP32TempatureSensors
 	url = git@github.com:Luceium/ESP32TempatureSensors.git
+[submodule "AmbiAir-mobile"]
+	path = AmbiAir-mobile
+	url = git@github.com:Luceium/AmbiAir-mobile.git
