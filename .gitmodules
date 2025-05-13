@@ -4,3 +4,6 @@
 [submodule "AmbiAir-mobile"]
 	path = AmbiAir-mobile
 	url = git@github.com:Luceium/AmbiAir-mobile.git
+[submodule "matter-controller"]
+	path = matter-controller
+	url = git@github.com:neelp03/matter-controller.git
