@@ -1,12 +1,12 @@
-[submodule "ESP32TempatureSensors"]
-	path = ESP32TempatureSensors
-	url = git@github.com:Luceium/ESP32TempatureSensors.git
-[submodule "AmbiAir-mobile"]
-	path = AmbiAir-mobile
-	url = git@github.com:Luceium/AmbiAir-mobile.git
-[submodule "matter-controller"]
-	path = matter-controller
-	url = git@github.com:neelp03/matter-controller.git
+[submodule "server"]
+	path = server
+	url = https://github.com/neelp03/matter-controller
+[submodule "mobile"]
+	path = mobile
+	url = git@github.com:Luceium/ambiair-mobile.git
+[submodule "firmware"]
+	path = firmware
+	url = git@github.com:Luceium/ambiair-firmware.git
 [submodule "ml"]
 	path = ml
 	url = git@github.com:Luceium/ambiair-ml.git
