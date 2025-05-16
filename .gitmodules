@@ -7,3 +7,6 @@
 [submodule "firmware"]
 	path = firmware
 	url = git@github.com:Luceium/ambiair-firmware.git
+[submodule "ml"]
+	path = ml
+	url = git@github.com:Luceium/ambiair-ml.git
