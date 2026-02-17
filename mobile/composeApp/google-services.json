@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "1077135560625",
+    "firebase_url": "https://passive-cool-default-rtdb.firebaseio.com",
+    "project_id": "passive-cool",
+    "storage_bucket": "passive-cool.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1077135560625:android:c598419ffeabe0d4dc3790",
+        "android_client_info": {
+          "package_name": "tech.luceium.ambiair"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1077135560625-bi3gsmtqibuu7jf0ilgge3v6drkcu2bk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "tech.luceium.ambiair",
+            "certificate_hash": "05460cd74478b02ae83ce180c9fce3701de0ccdd"
+          }
+        },
+        {
+          "client_id": "1077135560625-7gk99v474kge6tg9974a1o8ulejovgb6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA5Jn-ZxJIjNNhZ8axoAvc1-ec483y0e_k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1077135560625-7gk99v474kge6tg9974a1o8ulejovgb6.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1077135560625-lc6li3ebtrbjufr8homg9s66kbjhtlg4.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "tech.luceium.ambiair"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
