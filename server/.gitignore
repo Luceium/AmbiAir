@@ -1,0 +1,4 @@
+.vscode/
+.env
+.local
+ml_model/venv/

@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ambiair</string>
+    <string name="welcome_to">Welcome to</string>
+    <string name="lets_set_up_your_home">Let's set up your home</string>
+    <string name="already_have_home_import_it">Already have a home? Import it</string>
+    <string name="next">Next</string>
+</resources>

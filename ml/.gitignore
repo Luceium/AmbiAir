@@ -1,0 +1,4 @@
+.local
+*adminsdk*
+__pycache__
+.vscode/
